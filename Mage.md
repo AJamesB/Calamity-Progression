@@ -1,4 +1,6 @@
 # Magic Weapons
+<details>
+  <summary>Pre-hardmode</summary>
 ## Pre-hardmode
 ### Pre boss
 - [Flare Bolt](https://calamitymod.wiki.gg/wiki/Flare_Bolt) - _Requires [Reaver Shark](https://terraria.wiki.gg/wiki/Reaver_Shark) Pickaxe_
@@ -60,6 +62,9 @@
 - [Eldritch Tome](https://calamitymod.wiki.gg/wiki/Eldritch_Tome)
 - [Night's Ray](https://calamitymod.wiki.gg/wiki/Night%27s_Ray)
 
+</details>
+<details>
+  <summary>Hardmode</summary>
 ## Hardmode
 ### Post Wall of Flesh
 - [Clothier's Wrath](https://calamitymod.wiki.gg/wiki/Clothier%27s_Wrath)
@@ -149,6 +154,10 @@
 #### Post Stardust Pillar
 - [The Swarmer](https://calamitymod.wiki.gg/wiki/The_Swarmer)
 
+</details>
+<details>
+  <summary>Post-Moon Lord</summary>
+
 ## Post-Moon Lord
 ### Post Moon Lord
 - [Asteroid Staff](https://calamitymod.wiki.gg/wiki/Asteroid_Staff)
@@ -187,3 +196,5 @@
 ### Post Supreme Witch, Calamitas
 - [Fabstaff](https://calamitymod.wiki.gg/wiki/Fabstaff)
 - [Staff of Blushie](https://calamitymod.wiki.gg/wiki/Staff_of_Blushie)
+
+</details>
