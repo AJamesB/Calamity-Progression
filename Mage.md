@@ -1,6 +1,7 @@
 # Magic Weapons
 <details>
   <summary>Pre-hardmode</summary>
+
 ## Pre-hardmode
 ### Pre boss
 - [Flare Bolt](https://calamitymod.wiki.gg/wiki/Flare_Bolt) - _Requires [Reaver Shark](https://terraria.wiki.gg/wiki/Reaver_Shark) Pickaxe_
@@ -65,6 +66,7 @@
 </details>
 <details>
   <summary>Hardmode</summary>
+  
 ## Hardmode
 ### Post Wall of Flesh
 - [Clothier's Wrath](https://calamitymod.wiki.gg/wiki/Clothier%27s_Wrath)
