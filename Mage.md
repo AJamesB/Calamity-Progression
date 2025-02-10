@@ -176,9 +176,9 @@
 ### Post Stardust Pillar
 - [The Swarmer](https://calamitymod.wiki.gg/wiki/The_Swarmer)
 
-# Post-Moon Lord
-
 </details>
+
+# Post-Moon Lord
 <details>
   <summary>Post-Moon Lord</summary>
 
