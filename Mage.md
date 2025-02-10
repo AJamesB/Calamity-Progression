@@ -64,8 +64,9 @@
 - [Eldritch Tome](https://calamitymod.wiki.gg/wiki/Eldritch_Tome)
 - [Night's Ray](https://calamitymod.wiki.gg/wiki/Night%27s_Ray)
 
-# Hardmode
 </details>
+
+# Hardmode
 <details>
   <summary>Hardmode</summary>
   
