@@ -11,6 +11,7 @@
 - [Plasma Rod](https://calamitymod.wiki.gg/wiki/Plasma_Rod)
 - [Veering Wind](https://calamitymod.wiki.gg/wiki/Veering_Wind)
 - [Wulfrum Prosthesis](https://calamitymod.wiki.gg/wiki/Wulfrum_Prosthesis)
+- [The Cauldron](https://calamitymod.wiki.gg/wiki/The_Cauldron) - _Requires [Reaver Shark](https://terraria.wiki.gg/wiki/Reaver_Shark) Pickaxe_
 
 ## Post King Slime
 
@@ -71,6 +72,9 @@
 - [Glorious End](https://calamitymod.wiki.gg/wiki/Glorious_End)
 - [Serpentine](https://calamitymod.wiki.gg/wiki/Serpentine)
 
+## Post Giant Clam
+- [Poseidon](https://calamitymod.wiki.gg/wiki/Poseidon)
+
 ## Post Pirate Invasion
 
 ## Post Queen Slime
@@ -78,18 +82,22 @@
 ## Post Cryogen
 - [Shadecrystal Barrage](https://calamitymod.wiki.gg/wiki/Shadecrystal_Barrage)
 - [Snowstorm Staff](https://calamitymod.wiki.gg/wiki/Snowstorm_Staff)
+- [Icicle Trident](https://calamitymod.wiki.gg/wiki/Icicle_Trident)
 
 ## Post Aquatic Scourge
 - [Belching Saxophone](https://calamitymod.wiki.gg/wiki/Belching_Saxophone)
 - [Downpour](https://calamitymod.wiki.gg/wiki/Downpour)
 - [Miasma](https://calamitymod.wiki.gg/wiki/Miasma)
+- [Slithering Eels](https://calamitymod.wiki.gg/wiki/Slithering_Eels)
 
 ## Post Acid Rain (Tier 2)
 
 ## Post Brimstone Elemental
+- [Seething Discharge](https://calamitymod.wiki.gg/wiki/Seething_Discharge)
 
 ## Post Mech Boss 1
 - [SHPC](https://calamitymod.wiki.gg/wiki/SHPC)
+- [Wyvern's Call](https://calamitymod.wiki.gg/wiki/Wyvern%27s_Call)
 
 ## Post Mech Boss 2
 - [Brimrose Staff](https://calamitymod.wiki.gg/wiki/Brimrose_Staff)
@@ -98,6 +106,7 @@
 
 ## Post Mech Boss 3
 - [Gleaming Magnolia](https://calamitymod.wiki.gg/wiki/Gleaming_Magnolia)
+- [Valkyrie Ray](https://calamitymod.wiki.gg/wiki/Valkyrie_Ray)
 
 ## Post Ogre (Old One's Army)
 
@@ -105,21 +114,28 @@
 
 ## Post Calamitas Clone
 - [Art Attack](https://calamitymod.wiki.gg/wiki/Art_Attack)
+- [Lashes of Chaos](https://calamitymod.wiki.gg/wiki/Lashes_of_Chaos)
 
 ## Post Plantera
 - [Everglade Spray](https://calamitymod.wiki.gg/wiki/Everglade_Spray)
+- [Tears of Heaven](https://calamitymod.wiki.gg/wiki/Tears_of_Heaven)
+- [Primordial Earth](https://calamitymod.wiki.gg/wiki/Primordial_Earth)
+- [Photosynthesis](https://calamitymod.wiki.gg/wiki/Photosynthesis)
 
 ## Post Great Sand Shark
 
 ## Post Anahita & The Leviathan
 - [Atlantis](https://calamitymod.wiki.gg/wiki/Atlantis)
 - [Hadal Urn](https://calamitymod.wiki.gg/wiki/Hadal_Urn)
+- [Undine's Retribution](https://calamitymod.wiki.gg/wiki/Undine%27s_Retribution)
+- [Keelhaul](https://calamitymod.wiki.gg/wiki/Keelhaul)
 
 ## Post Astrum Aureus
 - [Alula Austalis](https://calamitymod.wiki.gg/wiki/Alula_Australis)
 - [Astalachnea Staff](https://calamitymod.wiki.gg/wiki/Astralachnea_Staff)
 
 ## Post Golem
+- [Infernal Rift](https://calamitymod.wiki.gg/wiki/Infernal_Rift)
 
 ## Post Pumpkin Moon
 
@@ -131,22 +147,26 @@
 
 ## Post The Plaguebringer Goliath
 - [Gatling Laser](https://calamitymod.wiki.gg/wiki/Gatling_Laser)
+- [Plague Staff](https://calamitymod.wiki.gg/wiki/Plague_Staff)
 
 ## Post Empress of Light
 
 ## Post Betsy (Old One's Army)
 
 ## Post Ravager
+- [Vesuvius](https://calamitymod.wiki.gg/wiki/Vesuvius)
 
 ## Post Lunatic Cultist
 
 ## Post Astum Deus
 - [Astral Staff](https://calamitymod.wiki.gg/wiki/Astral_Staff)
+- [Star Shower](https://calamitymod.wiki.gg/wiki/Star_Shower)
 
 ## Post Celestial Pillars
 ### Post Solar Pillar
 
 ### Post Vortex Pillar
+- [Nano Purge](https://calamitymod.wiki.gg/wiki/Nano_Purge)
 
 ### Post Nebula Pillar
 - [Arch Amaryllis](https://calamitymod.wiki.gg/wiki/Arch_Amaryllis)
@@ -161,6 +181,8 @@
 ## Post Moon Lord
 - [Asteroid Staff](https://calamitymod.wiki.gg/wiki/Asteroid_Staff)
 - [Elemental Ray](https://calamitymod.wiki.gg/wiki/Elemental_Ray)
+- [Effervescence](https://calamitymod.wiki.gg/wiki/Effervescence)
+- [Genesis](https://calamitymod.wiki.gg/wiki/Genesis)
 
 ## Post Profaned Guardians
 
@@ -170,6 +192,7 @@
 - [Divine Retribution](https://calamitymod.wiki.gg/wiki/Divine_Retribution)
 
 ## Post Ceaseless Void
+- [Mistlestorm](https://calamitymod.wiki.gg/wiki/Mistlestorm)
 
 ## Post Storm Weaver
 
@@ -179,6 +202,8 @@
 - [Clamor Noctus](https://calamitymod.wiki.gg/wiki/Clamor_Noctus)
 - [Eidolon Staff](https://calamitymod.wiki.gg/wiki/Eidolon_Staff)
 - [Fate's Reveal](https://calamitymod.wiki.gg/wiki/Fate%27s_Reveal)
+- [Venusian Trident](https://calamitymod.wiki.gg/wiki/Venusian_Trident)
+- [Dark Spark](https://calamitymod.wiki.gg/wiki/Dark_Spark)
 
 ## Post Acid Rain (Tier 3)
 
@@ -189,11 +214,14 @@
 
 ## Post Yharon
 - [The Wand](https://calamitymod.wiki.gg/wiki/The_Wand)
+- [Helium Flash](https://calamitymod.wiki.gg/wiki/Helium_Flash)
+- [Yharim's Crystal](https://calamitymod.wiki.gg/wiki/Yharim%27s_Crystal)
 
 ## Post The Exo Mechs
 
 ## Post Supreme Witch, Calamitas
 - [Fabstaff](https://calamitymod.wiki.gg/wiki/Fabstaff)
 - [Staff of Blushie](https://calamitymod.wiki.gg/wiki/Staff_of_Blushie)
+- [Wrath of the Ancients](https://calamitymod.wiki.gg/wiki/Wrath_of_the_Ancients)
 
 </details>
