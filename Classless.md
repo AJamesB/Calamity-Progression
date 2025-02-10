@@ -110,6 +110,7 @@
 
 ### Post Stardust Pillar
 
+# Post-Moon Lord
 </details>
 <details>
   <summary>Post-Moon Lord</summary>

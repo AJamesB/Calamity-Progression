@@ -1,4 +1,5 @@
 # Magic Weapons
+# Pre-hardmode
 <details>
   <summary>Pre-hardmode</summary>
 
@@ -63,6 +64,7 @@
 - [Eldritch Tome](https://calamitymod.wiki.gg/wiki/Eldritch_Tome)
 - [Night's Ray](https://calamitymod.wiki.gg/wiki/Night%27s_Ray)
 
+# Hardmode
 </details>
 <details>
   <summary>Hardmode</summary>
@@ -173,6 +175,8 @@
 
 ### Post Stardust Pillar
 - [The Swarmer](https://calamitymod.wiki.gg/wiki/The_Swarmer)
+
+# Post-Moon Lord
 
 </details>
 <details>
