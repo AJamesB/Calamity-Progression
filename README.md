@@ -15,14 +15,14 @@ Finally, the weapons at each stage are ordered alphabetically not by damage or a
 
 I plan to at some stage also add armour and accessories. But it might be a while before then.
 I will also be updating the repository in this order:
-- Mage (Vanilla)
+- Mage Weapons (Vanilla)
 - Rogue
-- Summoner (Calamity)
-- Summoner (Vanilla)
-- Melee (Calamity)
-- Melee (Vanilla)
-- Ranger (Calamity)
-- Ranger (Vanilla)
+- Summoner Weapons (Calamity)
+- Summoner Weapons (Vanilla)
+- Melee Weapons (Calamity)
+- Melee Weapons (Vanilla)
+- Ranger Weapons (Calamity)
+- Ranger Weapons (Vanilla)
 - Armour (Calamity)
 - Armour (Vanilla)
 - Accessories (Calamity)
