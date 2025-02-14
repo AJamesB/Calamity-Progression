@@ -1,5 +1,6 @@
 # Calamity Progression
 **The (hopefully) ultimate Terraria Calamity progression list**
+
 Just an itemised list of every weapon available at each stage of the game. 
 > **_NOTE:_** Currently still HEAVILY a work in progress and only mage and classless, other classes will be done, and perhaps even armour and accessories. Also only Calamity weapons, but vanilla ones will be added at a later stage.
 
