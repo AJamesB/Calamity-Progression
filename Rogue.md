@@ -1,5 +1,5 @@
 # Rogue Weapons
-
+# Pre-hardmode
 <details>
   <summary>Pre-hardmode</summary>
 
@@ -19,13 +19,13 @@
 
 ## Post Crabulon
 
-## Post Eater of Worlds
+## Post Eater of Worlds/Brain of Cthulhu
 
 ## Post Goblin Army
 
 ## Post Dark Mage (Old One's Army)
 
-## Post The Hive Mind
+## Post The Hive Mind/The Perforators
 
 ## Post The Perforators
 
@@ -38,10 +38,14 @@
 ## Post The Slime God
 
 </details>
+
+# Hardmode
 <details>
   <summary>Hardmode</summary>
-
+  
 ## Post Wall of Flesh
+
+## Post Giant Clam
 
 ## Post Pirate Invasion
 
@@ -85,7 +89,7 @@
 
 ## Post Duke Fishron
 
-## Post The PLaguebringer Goliath
+## Post The Plaguebringer Goliath
 
 ## Post Empress of Light
 
@@ -98,8 +102,17 @@
 ## Post Astum Deus
 
 ## Post Celestial Pillars
+### Post Solar Pillar
+
+### Post Vortex Pillar
+
+### Post Nebula Pillar
+
+### Post Stardust Pillar
 
 </details>
+
+# Post-Moon Lord
 <details>
   <summary>Post-Moon Lord</summary>
 
