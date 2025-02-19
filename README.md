@@ -15,6 +15,7 @@ Finally, the weapons at each stage are ordered alphabetically not by damage or a
 
 I plan to at some stage also add armour and accessories. But it might be a while before then.
 I will also be updating the repository in this order:
+- Calamity-altered vanilla weapons (all classes)
 - Mage Weapons (Vanilla)
 - Rogue
 - Summoner Weapons (Calamity)
@@ -23,8 +24,10 @@ I will also be updating the repository in this order:
 - Melee Weapons (Vanilla)
 - Ranger Weapons (Calamity)
 - Ranger Weapons (Vanilla)
+- Calamity-altered vanilla armour
 - Armour (Calamity)
 - Armour (Vanilla)
+- Calamity-altered vanilla accessories
 - Accessories (Calamity)
 - Accessories (Vanilla)
 
