@@ -10,7 +10,7 @@ Also, please note that some weapons might be obtainable at earlier stages (such 
 
 Finally, the weapons at each stage are ordered alphabetically not by damage or any other ranking.
 
-#### Future Plans:
+## Future Plans:
 
 I plan to at some stage also add armour and accessories. But it might be a while before then.
 I will also be updating the repository in this order:

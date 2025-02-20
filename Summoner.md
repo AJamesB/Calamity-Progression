@@ -4,7 +4,7 @@
   <summary>Pre-hardmode</summary>
 
 ## Pre boss
-#### Summons
+#### Summons:
 - [Slime Staff](https://terraria.wiki.gg/wiki/Slime_Staff)
 - [Finch Staff](https://terraria.wiki.gg/wiki/Finch_Staff)
 
@@ -61,7 +61,7 @@
 ## Post Aquatic Scourge
 
 ## Post Acid Rain (Tier 2)
-#### Summons
+#### Summons:
 - [Orthocera Shell](https://calamitymod.wiki.gg/wiki/Orthocera_Shell)
 
 ## Post Brimstone Elemental
@@ -69,6 +69,8 @@
 ## Post Mech Boss 1
 
 ## Post Mech Boss 2
+#### Summons:
+- [Optic Staff](https://terraria.wiki.gg/wiki/Optic_Staff) - _If one of the first two mech bosses was The Twins_
 
 ## Post Mech Boss 3
 
@@ -140,7 +142,7 @@
 ## Post Polterghast
 
 ## Post Acid Rain (Tier 3)
-#### Summons
+#### Summons:
 - [Gamma Heart](https://calamitymod.wiki.gg/wiki/Gamma_Heart)
 
 ## Post Old Duke
