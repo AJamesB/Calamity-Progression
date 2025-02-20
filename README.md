@@ -10,25 +10,24 @@ Also, please note that some weapons might be obtainable at earlier stages (such 
 
 Finally, the weapons at each stage are ordered alphabetically not by damage or any other ranking.
 
-<details>
-  <summary>Future Plans</summary>
+#### Future Plans:
 
 I plan to at some stage also add armour and accessories. But it might be a while before then.
 I will also be updating the repository in this order:
-- Calamity-altered vanilla weapons (all classes)
-- Mage Weapons (Vanilla)
-- Rogue
-- Summoner Weapons (Calamity)
-- Summoner Weapons (Vanilla)
-- Melee Weapons (Calamity)
-- Melee Weapons (Vanilla)
-- Ranger Weapons (Calamity)
-- Ranger Weapons (Vanilla)
-- Calamity-altered vanilla armour
-- Armour (Calamity)
-- Armour (Vanilla)
-- Calamity-altered vanilla accessories
-- Accessories (Calamity)
-- Accessories (Vanilla)
-
-</details>
+- [x] Classless Weapons
+- [x] Mage Weapons (Calmity)
+- [x] Calamity-altered vanilla weapons (all classes)
+- [ ] Mage Weapons (Vanilla)
+- [ ] Rogue Weapons
+- [ ] Summoner Weapons (Calamity)
+- [ ] Summoner Weapons (Vanilla)
+- [ ] Melee Weapons (Calamity)
+- [ ] Melee Weapons (Vanilla)
+- [ ] Ranger Weapons (Calamity)
+- [ ] Ranger Weapons (Vanilla)
+- [ ] Calamity-altered vanilla armour
+- [ ] Armour (Calamity)
+- [ ] Armour (Vanilla)
+- [ ] Calamity-altered vanilla accessories
+- [ ] Accessories (Calamity)
+- [ ] Accessories (Vanilla)
