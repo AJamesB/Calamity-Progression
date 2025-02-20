@@ -13,6 +13,9 @@
 - [The Cauldron](https://calamitymod.wiki.gg/wiki/The_Cauldron) - _Requires [Reaver Shark](https://terraria.wiki.gg/wiki/Reaver_Shark) Pickaxe_
 - [Veering Wind](https://calamitymod.wiki.gg/wiki/Veering_Wind)
 - [Wulfrum Prosthesis](https://calamitymod.wiki.gg/wiki/Wulfrum_Prosthesis)
+- [Wand of Sparking](https://terraria.wiki.gg/wiki/Wand_of_Sparking)
+- [Crimson Rod](https://terraria.wiki.gg/wiki/Crimson_Rod)
+- [Vilethorn](https://terraria.wiki.gg/wiki/Vilethorn)
 
 ## Post King Slime
 
@@ -56,6 +59,7 @@
 ## Post Skeletron
 - [Abyss Shocker](https://calamitymod.wiki.gg/wiki/Abyss_Shocker)
 - [Black Anurian](https://calamitymod.wiki.gg/wiki/Black_Anurian)
+- [Water Bolt](https://terraria.wiki.gg/wiki/Water_Bolt)
 
 ## Post Deerclops
 
@@ -75,6 +79,8 @@
 - [Frigidflash Bolt](https://calamitymod.wiki.gg/wiki/Frigidflash_Bolt)
 - [Glorious End](https://calamitymod.wiki.gg/wiki/Glorious_End)
 - [Serpentine](https://calamitymod.wiki.gg/wiki/Serpentine)
+- [Clinger Staff](https://terraria.wiki.gg/wiki/Clinger_Staff)
+- [Life Drain](https://terraria.wiki.gg/wiki/Life_Drain)
 
 ## Post Giant Clam
 - [Poseidon](https://calamitymod.wiki.gg/wiki/Poseidon)
@@ -94,10 +100,10 @@
 ## Post Aquatic Scourge
 - [Belching Saxophone](https://calamitymod.wiki.gg/wiki/Belching_Saxophone)
 - [Downpour](https://calamitymod.wiki.gg/wiki/Downpour)
-- [Miasma](https://calamitymod.wiki.gg/wiki/Miasma)
-- [Slithering Eels](https://calamitymod.wiki.gg/wiki/Slithering_Eels)
 
 ## Post Acid Rain (Tier 2)
+- [Miasma](https://calamitymod.wiki.gg/wiki/Miasma)
+- [Slithering Eels](https://calamitymod.wiki.gg/wiki/Slithering_Eels)
 
 ## Post Brimstone Elemental
 - [Seething Discharge](https://calamitymod.wiki.gg/wiki/Seething_Discharge)
@@ -113,6 +119,7 @@
 - [Death Valley Duster](https://calamitymod.wiki.gg/wiki/Death_Valley_Duster)
 - [Ion Blaster](https://calamitymod.wiki.gg/wiki/Ion_Blaster)
 - [Relic of Ruin](https://calamitymod.wiki.gg/wiki/Relic_of_Ruin)
+- [Spirit Flame](https://terraria.wiki.gg/wiki/Spirit_Flame)
 
 ## Post Mech Boss 3
 - [Gleaming Magnolia](https://calamitymod.wiki.gg/wiki/Gleaming_Magnolia)

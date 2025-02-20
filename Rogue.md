@@ -56,6 +56,8 @@
 ## Post Aquatic Scourge
 
 ## Post Acid Rain (Tier 2)
+- [Skyfin Bombers](https://calamitymod.wiki.gg/wiki/Skyfin_Bombers)
+- [Spent Fuel Container](https://calamitymod.wiki.gg/wiki/Spent_Fuel_Container)
 
 ## Post Brimstone Elemental
 

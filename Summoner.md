@@ -4,6 +4,9 @@
   <summary>Pre-hardmode</summary>
 
 ## Pre boss
+#### Summons
+- [Slime Staff](https://terraria.wiki.gg/wiki/Slime_Staff)
+- [Finch Staff](https://terraria.wiki.gg/wiki/Finch_Staff)
 
 ## Post King Slime
 
@@ -44,6 +47,8 @@
   <summary>Hardmode</summary>
   
 ## Post Wall of Flesh
+#### Whips:
+- [Cool Whip](https://terraria.wiki.gg/wiki/Cool_Whip)
 
 ## Post Giant Clam
 
@@ -56,6 +61,8 @@
 ## Post Aquatic Scourge
 
 ## Post Acid Rain (Tier 2)
+#### Summons
+- [Orthocera Shell](https://calamitymod.wiki.gg/wiki/Orthocera_Shell)
 
 ## Post Brimstone Elemental
 
@@ -133,6 +140,8 @@
 ## Post Polterghast
 
 ## Post Acid Rain (Tier 3)
+#### Summons
+- [Gamma Heart](https://calamitymod.wiki.gg/wiki/Gamma_Heart)
 
 ## Post Old Duke
 
